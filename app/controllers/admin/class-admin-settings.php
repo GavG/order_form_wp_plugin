@@ -2,7 +2,7 @@
 namespace Order_Form\App\Controllers\Admin;
 
 use Order_Form\App\Controllers\Admin\Base_Controller;
-use Order_Form as Order_Form;
+use Order_Form;
 
 if ( ! class_exists( __NAMESPACE__ . '\\' . 'Admin_Settings' ) ) {
 
